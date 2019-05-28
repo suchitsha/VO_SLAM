@@ -5,4 +5,4 @@ Original code based on:
 https://github.com/raulmur/ORB_SLAM2 and 
 https://github.com/ros-drivers/video_stream_opencv
 
-Original vocabulary file deleted because of size, extract from tar in Vocabulary folder, build the code based on instructions in original git, before use 
+Original vocabulary file deleted because of size, extract from tar in Vocabulary folder, build the code based on instructions in original git. 
